@@ -1,0 +1,62 @@
+body
+{
+    background-image: url(https://avatars.mds.yandex.net/i?id=812c26e5bcfea295ebd2d42dad5931d8dcb6f743-11415951-images-thumbs&n=13);
+    text-align: center;
+    color: white;
+}
+
+h1
+{
+    color: white;
+    background-color: black;
+}
+
+h2
+{
+    color: white;
+    background-color: black;
+}
+
+#gamezone
+{
+    background-color: black;
+    height: 550px;
+    width: 650px;
+    margin-left: 35%;
+    margin-top: 15px;
+}
+.char
+{
+    background-color: rgb(146, 49, 49);
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    background-image: url(https://steamuserimages-a.akamaihd.net/ugc/2232157342059196202/F952AB2B2B7CE4113BA00783C4FBDC88DF1209C9/?imw=512&amp;imh=365&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
+    background-size: cover;
+    background-position: center;
+    display: none;
+}
+
+.char:hover
+{
+    scale: 1.1;
+}
+
+.Uzi
+{
+    background-image: url(https://avatars.mds.yandex.net/i?id=965697fcac46058f98beb7cfe33c5df3680e413e-9657618-images-thumbs&ref=rim&n=33&w=199&h=200);
+    background-size: cover;
+    background-position: center;
+}
+
+.hidden
+{
+    display: none;
+}
+
+.visible
+{
+    display: block;
+}
